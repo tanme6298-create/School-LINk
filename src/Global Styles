@@ -1,0 +1,8 @@
+/* It's good practice to have this file, even if it's mostly empty, for Tailwind to work correctly. */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: 'Inter', sans-serif;
+}
